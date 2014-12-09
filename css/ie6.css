@@ -1,0 +1,169 @@
+
+.menu_binding{
+ position:absolute;
+ top: 109px;
+ left: 207px;
+ background: url(../images/menu_binding.png) no-repeat;
+ width: 57px;
+ height: 273px;
+ }
+ 
+body{ 
+ background: none;
+ }
+
+#left{
+ width: 177px;
+ margin: 0;
+ padding: 0 0 50px 27px;
+ float: left;
+ }
+ 
+#right{
+ width: 645px;
+ margin: 20px 0 0 54px;
+ float: left;
+ }
+ 
+.sep_left{
+ height: 1px;
+ line-height: 1px;
+ font-size: 0px;
+ width: 100%;
+ border-top: 1px solid #d8d8d8;
+ background: none;
+ margin: 21px 0 16px 0;
+ }
+ 
+#left ul li{
+ margin: 3px 0 0 0;
+ }
+
+.ribon{
+ position: absolute;
+ top: 0px;
+ left: 51px;
+ width: 177px;
+ height: 80px;
+ background: url(../images/ribon.png) no-repeat;
+ z-index: 100;
+ }
+ 
+#content .middle{
+ width: 935px;
+ background: url(../images/ie6/content_middle_ie6.gif) repeat-y;
+ position: relative;
+ }
+ 
+.main_menu .left{
+ width: 11px;
+ height: 36px;
+ background: url(../images/ie6/main_menu_bg_left_ie6.gif) no-repeat;
+ float: left;
+ }
+ 
+.main_menu .middle{
+ height: 36px;
+ background: url(../images/ie6/main_menu_bg_middle_ie6.gif) repeat-x;
+ float: left;
+ padding: 0 7px 0 0;
+ }
+ 
+.main_menu .right{
+ width: 11px;
+ height: 36px;
+ background: url(../images/ie6/main_menu_bg_right_ie6.gif) no-repeat;
+ float: left;
+ }
+ 
+.email_phone a{
+ display: block;
+ height: 22px;
+ width: 196px;
+ background: url(../images/ie6/email_icon_ie6.jpg) no-repeat;
+ padding: 1px 0 0 33px;
+ float:left;
+ }
+ 
+.phone{
+ height: 22px;
+ background: url(../images/ie6/phone_icon_ie6.jpg) no-repeat;
+ padding: 1px 0 0 33px;
+ float:left;
+ }
+ 
+.another_row{
+ padding: 0 0 0 0;
+ }
+ 
+.recipe_cat_img{
+ width: 96px;
+ height: 72px;
+ background: url(../images/ie6/recipes_category_bg_ie6.jpg) no-repeat;
+ padding: 6px 0 0 6px;
+ }
+ 
+.recipe_cat_img_small{
+ width: 75px;
+ height: 59px;
+ background: url(../images/ie6/recipes_category_bg_small_ie6.jpg) no-repeat;
+ padding: 5px 0 0 5px;
+ }
+ 
+.another_row_small{
+ padding: 0 0 0 0;
+ }
+ 
+.recipe_bg{
+ display: none;
+ }
+ 
+ 
+/* filters for transparent baground png images */
+
+img.png{
+    background-image: expression(
+        this.runtimeStyle.backgroundImage = "none",
+        this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', enabled='true', sizingMethod='scale')",
+        this.src = "images/spacer.gif"
+    );
+ }
+ 
+#content .top{
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src='images/content_top.png');
+ width: 935px;
+ height: 33px;
+ }
+ 
+#content .bottom{
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src='images/content_bottom.png');
+ width: 935px;
+ height: 76px;
+ }
+ 
+#content .bottom2{
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src='images/content_bottom2.png');
+ width: 935px;
+ height: 76px;
+ }
+ 
+.menu_binding{
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src='images/menu_binding.png');
+ width: 57px;
+ height: 273px;
+ }
+ 
+.ribon{
+ background-image:none;
+ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='image', src='images/ribon.png');
+ width: 57px;
+ height: 273px;
+ }
+ 
+ 
+ /* filters for transparent baground png images */
+
