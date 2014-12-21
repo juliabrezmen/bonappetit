@@ -6,6 +6,7 @@
         <recipeId>1</recipeId>
         <title>Гаспачо</title>
         <portions>4</portions>
+        <image>images/soups/1.jpg</image>
         <ingredients>
             <ingredient>4 шт. помідорів</ingredient>
             <ingredient>2 шт. солодких перців</ingredient>
@@ -33,6 +34,7 @@
         <recipeId>2</recipeId>
         <title>Морквяний суп з грінками</title>
         <portions>4</portions>
+        <image>images/soups/2.jpg</image>
         <ingredients>
             <ingredient>морква 800 г</ingredient>
             <ingredient>цибуля ріпчаста 1 головка</ingredient>
@@ -58,6 +60,7 @@
         <recipeId>3</recipeId>
         <title>Пісний суп з червоної квасолі</title>
         <portions>6</portions>
+        <image>images/soups/3.jpg</image>
         <ingredients>
             <ingredient>квасоля червона 300 г</ingredient>
             <ingredient>горіхи волоські 100 г</ingredient>
@@ -80,6 +83,7 @@
         <recipeId>4</recipeId>
         <title>Пісний капусняк з грибами</title>
         <portions>8</portions>
+        <image>images/soups/4.jpg</image>
         <ingredients>
             <ingredient>вода 3 л</ingredient>
             <ingredient>капуста квашена 800 г</ingredient>
@@ -110,6 +114,7 @@
         <recipeId>5</recipeId>
         <title>Гречаний суп з грибами</title>
         <portions>4</portions>
+        <image>images/soups/5.jpg</image>
         <ingredients>
             <ingredient>Шампіньйони 150 гр;</ingredient>
             <ingredient>Картопля 2 шт;</ingredient>
@@ -134,6 +139,7 @@
         <recipeId>6</recipeId>
         <title>Картопляний суп з цвітною капустою</title>
         <portions>4</portions>
+        <image>images/soups/6.jpg</image>
         <ingredients>
             <ingredient>картопля 4 шт.</ingredient>
             <ingredient>капуста цвітна 200 г</ingredient>
@@ -161,6 +167,7 @@
         <recipeId>7</recipeId>
         <title>Овочевий суп з грибами</title>
         <portions>4</portions>
+        <image>images/soups/7.jpg</image>
         <ingredients>
             <ingredient>картопля 4 шт.</ingredient>
             <ingredient>картопля 2 шт.</ingredient>
@@ -183,6 +190,7 @@
         <recipeId>8</recipeId>
         <title>Суп овочевий</title>
         <portions>4</portions>
+        <image>images/soups/8.jpg</image>
         <ingredients>
             <ingredient>1,5 л води,</ingredient>
             <ingredient>4 великі картоплини,</ingredient>
@@ -206,6 +214,7 @@
         <recipeId>9</recipeId>
         <title>Солянка на грибному бульйоні</title>
         <portions>4</portions>
+        <image>images/soups/9.jpg</image>
         <ingredients>
             <ingredient>500 г грибів,</ingredient>
             <ingredient>2 цибулини,</ingredient>
@@ -227,6 +236,7 @@
         <recipeId>10</recipeId>
         <title>Таронський суп</title>
         <portions>4</portions>
+        <image>images/soups/10.jpg</image>
         <ingredients>
             <ingredient>курка 1 шт.</ingredient>
             <ingredient>вода 7 склянок</ingredient>
@@ -258,6 +268,7 @@
         <recipeId>11</recipeId>
         <title>Піті</title>
         <portions>2</portions>
+        <image>images/soups/11.jpg</image>
         <ingredients>
             <ingredient>2 склянки води</ingredient>
             <ingredient>200-250 г м'якоті баранини</ingredient>
@@ -294,6 +305,7 @@
         <recipeId>12</recipeId>
         <title>Суп харчо з яловичини</title>
         <portions>6</portions>
+        <image>images/soups/12.jpg</image>
         <ingredients>
             <ingredient>рис 1 стакан</ingredient>
             <ingredient>яловичина (грудинка) 1 кг</ingredient>
@@ -323,6 +335,7 @@
         <recipeId>13</recipeId>
         <title>Солянка на кістковому бульйоні</title>
         <portions>6</portions>
+        <image>images/soups/13.jpg</image>
         <ingredients>
             <ingredient>200 г м’яса і 400 г кісток</ingredient>
             <ingredient>1,5 л води,</ingredient>
@@ -353,6 +366,7 @@
         <recipeId>14</recipeId>
         <title>Окрошка м'ясна</title>
         <portions>6</portions>
+        <image>images/soups/14.jpg</image>
         <ingredients>
             <ingredient>350 г набору м’ясних продуктів.</ingredient>
             <ingredient>1,4 л хлібного квасу.</ingredient>
@@ -375,6 +389,7 @@
         <recipeId>15</recipeId>
         <title>Пісна грибна юшка</title>
         <portions>6</portions>
+        <image>images/soups/15.jpg</image>
         <ingredients>
             <ingredient>100 г сушених білих грибів</ingredient>
             <ingredient>1-2 цибулини</ingredient>
@@ -401,6 +416,7 @@
         <recipeId>1</recipeId>
         <title>Гаспачо</title>
         <portions>4</portions>
+        <image>images/soups/1.jpg</image>
         <ingredients>
             <ingredient>4 шт. помідорів</ingredient>
             <ingredient>2 шт. солодких перців</ingredient>
@@ -428,6 +444,7 @@
         <recipeId>2</recipeId>
         <title>Морквяний суп з грінками</title>
         <portions>4</portions>
+        <image>images/soups/2.jpg</image>
         <ingredients>
             <ingredient>морква 800 г</ingredient>
             <ingredient>цибуля ріпчаста 1 головка</ingredient>
@@ -453,6 +470,7 @@
         <recipeId>3</recipeId>
         <title>Пісний суп з червоної квасолі</title>
         <portions>6</portions>
+        <image>images/soups/3.jpg</image>
         <ingredients>
             <ingredient>квасоля червона 300 г</ingredient>
             <ingredient>горіхи волоські 100 г</ingredient>
@@ -475,6 +493,7 @@
         <recipeId>4</recipeId>
         <title>Пісний капусняк з грибами</title>
         <portions>8</portions>
+        <image>images/soups/4.jpg</image>
         <ingredients>
             <ingredient>вода 3 л</ingredient>
             <ingredient>капуста квашена 800 г</ingredient>
@@ -505,6 +524,7 @@
         <recipeId>5</recipeId>
         <title>Гречаний суп з грибами</title>
         <portions>4</portions>
+        <image>images/soups/5.jpg</image>
         <ingredients>
             <ingredient>Шампіньйони 150 гр;</ingredient>
             <ingredient>Картопля 2 шт;</ingredient>
@@ -529,6 +549,7 @@
         <recipeId>6</recipeId>
         <title>Картопляний суп з цвітною капустою</title>
         <portions>4</portions>
+        <image>images/soups/6.jpg</image>
         <ingredients>
             <ingredient>картопля 4 шт.</ingredient>
             <ingredient>капуста цвітна 200 г</ingredient>
@@ -556,6 +577,7 @@
         <recipeId>7</recipeId>
         <title>Овочевий суп з грибами</title>
         <portions>4</portions>
+        <image>images/soups/7.jpg</image>
         <ingredients>
             <ingredient>картопля 4 шт.</ingredient>
             <ingredient>картопля 2 шт.</ingredient>
@@ -578,6 +600,7 @@
         <recipeId>8</recipeId>
         <title>Суп овочевий</title>
         <portions>4</portions>
+        <image>images/soups/8.jpg</image>
         <ingredients>
             <ingredient>1,5 л води,</ingredient>
             <ingredient>4 великі картоплини,</ingredient>
@@ -601,6 +624,7 @@
         <recipeId>9</recipeId>
         <title>Солянка на грибному бульйоні</title>
         <portions>4</portions>
+        <image>images/soups/9.jpg</image>
         <ingredients>
             <ingredient>500 г грибів,</ingredient>
             <ingredient>2 цибулини,</ingredient>
@@ -622,6 +646,7 @@
         <recipeId>10</recipeId>
         <title>Таронський суп</title>
         <portions>4</portions>
+        <image>images/soups/10.jpg</image>
         <ingredients>
             <ingredient>курка 1 шт.</ingredient>
             <ingredient>вода 7 склянок</ingredient>
@@ -653,6 +678,7 @@
         <recipeId>11</recipeId>
         <title>Піті</title>
         <portions>2</portions>
+        <image>images/soups/11.jpg</image>
         <ingredients>
             <ingredient>2 склянки води</ingredient>
             <ingredient>200-250 г м'якоті баранини</ingredient>
@@ -689,6 +715,7 @@
         <recipeId>12</recipeId>
         <title>Суп харчо з яловичини</title>
         <portions>6</portions>
+        <image>images/soups/12.jpg</image>
         <ingredients>
             <ingredient>рис 1 стакан</ingredient>
             <ingredient>яловичина (грудинка) 1 кг</ingredient>
@@ -718,6 +745,7 @@
         <recipeId>13</recipeId>
         <title>Солянка на кістковому бульйоні</title>
         <portions>6</portions>
+        <image>images/soups/13.jpg</image>
         <ingredients>
             <ingredient>200 г м’яса і 400 г кісток</ingredient>
             <ingredient>1,5 л води,</ingredient>
@@ -748,6 +776,7 @@
         <recipeId>14</recipeId>
         <title>Окрошка м'ясна</title>
         <portions>6</portions>
+        <image>images/soups/14.jpg</image>
         <ingredients>
             <ingredient>350 г набору м’ясних продуктів.</ingredient>
             <ingredient>1,4 л хлібного квасу.</ingredient>
@@ -770,6 +799,7 @@
         <recipeId>15</recipeId>
         <title>Пісна грибна юшка</title>
         <portions>6</portions>
+        <image>images/soups/15.jpg</image>
         <ingredients>
             <ingredient>100 г сушених білих грибів</ingredient>
             <ingredient>1-2 цибулини</ingredient>

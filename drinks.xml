@@ -6,6 +6,7 @@
         <recipeId>1</recipeId>
         <title>Чай з прянощами</title>
         <portions>2</portions>
+        <image>images/drinks/1.jpg</image>
         <ingredients>
             <ingredient>2 ст. ложки сухого чаю</ingredient>
             <ingredient>400 г води</ingredient>
@@ -26,6 +27,7 @@
         <recipeId>2</recipeId>
         <title>Чай з ромашки і м'яти</title>
         <portions>2</portions>
+        <image>images/drinks/2.jpg</image>
         <ingredients>
             <ingredient>чай чорний 1 ч. ложка</ingredient>
             <ingredient>квітки ромашки 1 ч. ложка</ingredient>
@@ -42,6 +44,7 @@
         <recipeId>3</recipeId>
         <title>Гарячий шоколад з чилі</title>
         <portions>3</portions>
+        <image>images/drinks/3.jpg</image>
         <ingredients>
             <ingredient>шоколад в порошку 6 ч. ложок</ingredient>
             <ingredient>молоко або суміш молока з вершками (1:1) 600 г</ingredient>
@@ -61,6 +64,7 @@
         <recipeId>4</recipeId>
         <title>Кавовий ег-ног</title>
         <portions>3</portions>
+        <image>images/drinks/4.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 200 г</ingredient>
             <ingredient>яєчні жовтки 2 шт.</ingredient>
@@ -78,6 +82,7 @@
         <recipeId>5</recipeId>
         <title>Мус кавовий</title>
         <portions>2</portions>
+        <image>images/drinks/5.jpg</image>
         <ingredients>
             <ingredient>кава розчинна 1 ч. ложка</ingredient>
             <ingredient>вершки густі 250 г</ingredient>
@@ -95,6 +100,7 @@
         <recipeId>6</recipeId>
         <title>Коктейль «Айс-кава»</title>
         <portions>1</portions>
+        <image>images/drinks/6.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 50 г</ingredient>
             <ingredient>морозиво 100 г (2 кульки)</ingredient>
@@ -110,6 +116,7 @@
         <recipeId>7</recipeId>
         <title>Кава «Борджія»</title>
         <portions>4</portions>
+        <image>images/drinks/7.jpg</image>
         <ingredients>
             <ingredient>кава натуральна 16 ч. ложок</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -130,6 +137,7 @@
         <recipeId>8</recipeId>
         <title>Мокко «в хмарці»</title>
         <portions>6</portions>
+        <image>images/drinks/8.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 300 г</ingredient>
             <ingredient>молоко 600 г</ingredient>
@@ -153,6 +161,7 @@
         <recipeId>9</recipeId>
         <title>Кава «гляссе»</title>
         <portions>2</portions>
+        <image>images/drinks/9.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 100 г</ingredient>
             <ingredient>морозиво (ванільне, шоколадне або кавове) 100 г</ingredient>
@@ -171,6 +180,7 @@
         <recipeId>10</recipeId>
         <title>Кава по-турецьки</title>
         <portions>2</portions>
+        <image>images/drinks/10.jpg</image>
         <ingredients>
             <ingredient>кава дрібного помелу 2 ч. ложки</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -195,6 +205,7 @@
         <recipeId>11</recipeId>
         <title>Міцна чорна кава</title>
         <portions>2</portions>
+        <image>images/drinks/11.jpg</image>
         <ingredients>
             <ingredient>кава мелена 4-6 ч. ложок</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -213,6 +224,7 @@
         <recipeId>12</recipeId>
         <title>Традиційна чорна кава</title>
         <portions>2</portions>
+        <image>images/drinks/12.jpg</image>
         <ingredients>
             <ingredient>кава мелена 2 ч. ложки</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -229,6 +241,7 @@
         <recipeId>13</recipeId>
         <title>Гарячий шоколад з корицею</title>
         <portions>2</portions>
+        <image>images/drinks/13.jpg</image>
         <ingredients>
             <ingredient>тертий гіркий шоколад 70 г</ingredient>
             <ingredient>молоко 1 стакан</ingredient>
@@ -249,6 +262,7 @@
         <recipeId>14</recipeId>
         <title>Кава по-австралійськи</title>
         <portions>2</portions>
+        <image>images/drinks/14.jpg</image>
         <ingredients>
             <ingredient>мелена кава 2 ст. ложки</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -269,6 +283,7 @@
         <recipeId>15</recipeId>
         <title>Згущене домашнє молоко</title>
         <portions>1</portions>
+        <image>images/drinks/15.jpg</image>
         <ingredients>
             <ingredient>250 мл молока,</ingredient>
             <ingredient>150 г сухого молока,</ingredient>
@@ -287,6 +302,7 @@
         <recipeId>1</recipeId>
         <title>Чай з прянощами</title>
         <portions>2</portions>
+        <image>images/drinks/1.jpg</image>
         <ingredients>
             <ingredient>2 ст. ложки сухого чаю</ingredient>
             <ingredient>400 г води</ingredient>
@@ -307,6 +323,7 @@
         <recipeId>2</recipeId>
         <title>Чай з ромашки і м'яти</title>
         <portions>2</portions>
+        <image>images/drinks/2.jpg</image>
         <ingredients>
             <ingredient>чай чорний 1 ч. ложка</ingredient>
             <ingredient>квітки ромашки 1 ч. ложка</ingredient>
@@ -323,6 +340,7 @@
         <recipeId>3</recipeId>
         <title>Гарячий шоколад з чилі</title>
         <portions>3</portions>
+        <image>images/drinks/3.jpg</image>
         <ingredients>
             <ingredient>шоколад в порошку 6 ч. ложок</ingredient>
             <ingredient>молоко або суміш молока з вершками (1:1) 600 г</ingredient>
@@ -342,6 +360,7 @@
         <recipeId>4</recipeId>
         <title>Кавовий ег-ног</title>
         <portions>3</portions>
+        <image>images/drinks/4.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 200 г</ingredient>
             <ingredient>яєчні жовтки 2 шт.</ingredient>
@@ -359,6 +378,7 @@
         <recipeId>5</recipeId>
         <title>Мус кавовий</title>
         <portions>2</portions>
+        <image>images/drinks/5.jpg</image>
         <ingredients>
             <ingredient>кава розчинна 1 ч. ложка</ingredient>
             <ingredient>вершки густі 250 г</ingredient>
@@ -376,6 +396,7 @@
         <recipeId>6</recipeId>
         <title>Коктейль «Айс-кава»</title>
         <portions>1</portions>
+        <image>images/drinks/6.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 50 г</ingredient>
             <ingredient>морозиво 100 г (2 кульки)</ingredient>
@@ -391,6 +412,7 @@
         <recipeId>7</recipeId>
         <title>Кава «Борджія»</title>
         <portions>4</portions>
+        <image>images/drinks/7.jpg</image>
         <ingredients>
             <ingredient>кава натуральна 16 ч. ложок</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -411,6 +433,7 @@
         <recipeId>8</recipeId>
         <title>Мокко «в хмарці»</title>
         <portions>6</portions>
+        <image>images/drinks/8.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 300 г</ingredient>
             <ingredient>молоко 600 г</ingredient>
@@ -434,6 +457,7 @@
         <recipeId>9</recipeId>
         <title>Кава «гляссе»</title>
         <portions>2</portions>
+        <image>images/drinks/9.jpg</image>
         <ingredients>
             <ingredient>кава чорна міцна 100 г</ingredient>
             <ingredient>морозиво (ванільне, шоколадне або кавове) 100 г</ingredient>
@@ -452,6 +476,7 @@
         <recipeId>10</recipeId>
         <title>Кава по-турецьки</title>
         <portions>2</portions>
+        <image>images/drinks/10.jpg</image>
         <ingredients>
             <ingredient>кава дрібного помелу 2 ч. ложки</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -476,6 +501,7 @@
         <recipeId>11</recipeId>
         <title>Міцна чорна кава</title>
         <portions>2</portions>
+        <image>images/drinks/11.jpg</image>
         <ingredients>
             <ingredient>кава мелена 4-6 ч. ложок</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -494,6 +520,7 @@
         <recipeId>12</recipeId>
         <title>Традиційна чорна кава</title>
         <portions>2</portions>
+        <image>images/drinks/12.jpg</image>
         <ingredients>
             <ingredient>кава мелена 2 ч. ложки</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -510,6 +537,7 @@
         <recipeId>13</recipeId>
         <title>Гарячий шоколад з корицею</title>
         <portions>2</portions>
+        <image>images/drinks/13.jpg</image>
         <ingredients>
             <ingredient>тертий гіркий шоколад 70 г</ingredient>
             <ingredient>молоко 1 стакан</ingredient>
@@ -530,6 +558,7 @@
         <recipeId>14</recipeId>
         <title>Кава по-австралійськи</title>
         <portions>2</portions>
+        <image>images/drinks/14.jpg</image>
         <ingredients>
             <ingredient>мелена кава 2 ст. ложки</ingredient>
             <ingredient>вода 300 г</ingredient>
@@ -550,6 +579,7 @@
         <recipeId>15</recipeId>
         <title>Згущене домашнє молоко</title>
         <portions>1</portions>
+        <image>images/drinks/15.jpg</image>
         <ingredients>
             <ingredient>250 мл молока,</ingredient>
             <ingredient>150 г сухого молока,</ingredient>

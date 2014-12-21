@@ -6,6 +6,7 @@
         <recipeId>1</recipeId>
         <title>Ліниві чебуреки з лаваша</title>
         <portions>1</portions>
+        <image>images/main_dishes/1.jpg</image>
         <ingredients>
             <ingredient>фарш 300 гр.</ingredient>
             <ingredient>цибуля ріпчаста 120 гр.</ingredient>
@@ -31,6 +32,7 @@
         <recipeId>2</recipeId>
         <title>М'ясо для ледачих</title>
         <portions>1</portions>
+        <image>images/main_dishes/2.jpg</image>
         <ingredients>
             <ingredient>фарш м'ясний 500 гр.</ingredient>
             <ingredient>часник 2-3 зубчики</ingredient>
@@ -51,6 +53,7 @@
         <recipeId>3</recipeId>
         <title>Лінива лазанья</title>
         <portions>1</portions>
+        <image>images/main_dishes/3.jpg</image>
         <ingredients>
             <ingredient>фарш м'ясний 500 гр.</ingredient>
             <ingredient>цибуля ріпчаста 2 шт.</ingredient>
@@ -78,6 +81,7 @@
         <recipeId>4</recipeId>
         <title>Курча по-тоскански</title>
         <portions>4</portions>
+        <image>images/main_dishes/4.jpg</image>
         <ingredients>
             <ingredient>10-12 листочків шавлії</ingredient>
             <ingredient>1 пучок чебрецю</ingredient>
@@ -106,6 +110,7 @@
         <recipeId>5</recipeId>
         <title>Запіканка макаронна з куркою</title>
         <portions>1</portions>
+        <image>images/main_dishes/5.jpg</image>
         <ingredients>
             <ingredient>200 г макаронів</ingredient>
             <ingredient>700 г курячого фаршу</ingredient>
@@ -132,6 +137,7 @@
         <recipeId>6</recipeId>
         <title>Курячий шашлик з картоплею в духовці</title>
         <portions>1</portions>
+        <image>images/main_dishes/6.jpg</image>
         <ingredients>
             <ingredient>Філе куряче (зі стегна) - 1,5 кг</ingredient>
             <ingredient>Цибуля ріпчаста - 4 шт</ingredient>
@@ -155,6 +161,7 @@
         <recipeId>7</recipeId>
         <title>М'ясний рулет з грибами</title>
         <portions>6</portions>
+        <image>images/main_dishes/7.jpg</image>
         <ingredients>
             <ingredient>фарш яловичий 600 г</ingredient>
             <ingredient>батон пшеничний черствий 120 г</ingredient>
@@ -186,6 +193,7 @@
         <recipeId>8</recipeId>
         <title>Бастурма по-вірменськи</title>
         <portions>4</portions>
+        <image>images/main_dishes/8.jpg</image>
         <ingredients>
             <ingredient>м'якоть яловичини (вирізка) 600 г</ingredient>
             <ingredient>цибуля ріпчаста 2 шт.</ingredient>
@@ -206,6 +214,7 @@
         <recipeId>9</recipeId>
         <title>Шашлик по-китайськи</title>
         <portions>4</portions>
+        <image>images/main_dishes/9.jpg</image>
         <ingredients>
             <ingredient>м'якоть баранини (корейка, окіст) 500 г</ingredient>
             <ingredient>борошно пшеничне 4 ст. ложки</ingredient>
@@ -232,6 +241,7 @@
         <recipeId>10</recipeId>
         <title>Відбивні гриль з медом і фісташками</title>
         <portions>6</portions>
+        <image>images/main_dishes/10.jpg</image>
         <ingredients>
             <ingredient>м'якоть свинини ( корейка) 1 кг</ingredient>
             <ingredient>фісташки 50 г</ingredient>
@@ -258,6 +268,7 @@
         <recipeId>11</recipeId>
         <title>Баранина гриль</title>
         <portions>2</portions>
+        <image>images/main_dishes/11.jpg</image>
         <ingredients>
             <ingredient>баранина (корейка на кістці ) 1 кг</ingredient>
             <ingredient>цибуля ріпчаста 8-10 головок</ingredient>
@@ -286,6 +297,7 @@
         <recipeId>12</recipeId>
         <title>Стейки з баранини з цибулею</title>
         <portions>2</portions>
+        <image>images/main_dishes/12.jpg</image>
         <ingredients>
             <ingredient>баранина (окіст, ниркова частина корейки ) 400 г</ingredient>
             <ingredient>цибуля ріпчаста 1-2 головки</ingredient>
@@ -308,6 +320,7 @@
         <recipeId>13</recipeId>
         <title>Чилі кон карне з шоколадом</title>
         <portions>6</portions>
+        <image>images/main_dishes/13.jpg</image>
         <ingredients>
             <ingredient>фарш яловичий 500 г</ingredient>
             <ingredient>перець чилі червоний 2 шт.</ingredient>
@@ -333,6 +346,7 @@
         <recipeId>14</recipeId>
         <title>Печінка, тушкована з овочами</title>
         <portions>4</portions>
+        <image>images/main_dishes/14.jpg</image>
         <ingredients>
             <ingredient>печінка яловича 500 г</ingredient>
             <ingredient>масло топлене 4 ст. ложки</ingredient>
@@ -361,6 +375,7 @@
         <recipeId>15</recipeId>
         <title>М'ясо з квашеною капустою</title>
         <portions>6</portions>
+        <image>images/main_dishes/15.jpg</image>
         <ingredients>
             <ingredient>м'якоть свинини 700 г</ingredient>
             <ingredient>капуста білокачанна квашена 400 г</ingredient>
@@ -386,6 +401,7 @@
         <recipeId>1</recipeId>
         <title>Ліниві чебуреки з лаваша</title>
         <portions>1</portions>
+        <image>images/main_dishes/1.jpg</image>
         <ingredients>
             <ingredient>фарш 300 гр.</ingredient>
             <ingredient>цибуля ріпчаста 120 гр.</ingredient>
@@ -411,6 +427,7 @@
         <recipeId>2</recipeId>
         <title>М'ясо для ледачих</title>
         <portions>1</portions>
+        <image>images/main_dishes/2.jpg</image>
         <ingredients>
             <ingredient>фарш м'ясний 500 гр.</ingredient>
             <ingredient>часник 2-3 зубчики</ingredient>
@@ -431,6 +448,7 @@
         <recipeId>3</recipeId>
         <title>Лінива лазанья</title>
         <portions>1</portions>
+        <image>images/main_dishes/3.jpg</image>
         <ingredients>
             <ingredient>фарш м'ясний 500 гр.</ingredient>
             <ingredient>цибуля ріпчаста 2 шт.</ingredient>
@@ -458,6 +476,7 @@
         <recipeId>4</recipeId>
         <title>Курча по-тоскански</title>
         <portions>4</portions>
+        <image>images/main_dishes/4.jpg</image>
         <ingredients>
             <ingredient>10-12 листочків шавлії</ingredient>
             <ingredient>1 пучок чебрецю</ingredient>
@@ -486,6 +505,7 @@
         <recipeId>5</recipeId>
         <title>Запіканка макаронна з куркою</title>
         <portions>1</portions>
+        <image>images/main_dishes/5.jpg</image>
         <ingredients>
             <ingredient>200 г макаронів</ingredient>
             <ingredient>700 г курячого фаршу</ingredient>
@@ -512,6 +532,7 @@
         <recipeId>6</recipeId>
         <title>Курячий шашлик з картоплею в духовці</title>
         <portions>1</portions>
+        <image>images/main_dishes/6.jpg</image>
         <ingredients>
             <ingredient>Філе куряче (зі стегна) - 1,5 кг</ingredient>
             <ingredient>Цибуля ріпчаста - 4 шт</ingredient>
@@ -535,6 +556,7 @@
         <recipeId>7</recipeId>
         <title>М'ясний рулет з грибами</title>
         <portions>6</portions>
+        <image>images/main_dishes/7.jpg</image>
         <ingredients>
             <ingredient>фарш яловичий 600 г</ingredient>
             <ingredient>батон пшеничний черствий 120 г</ingredient>
@@ -566,6 +588,7 @@
         <recipeId>8</recipeId>
         <title>Бастурма по-вірменськи</title>
         <portions>4</portions>
+        <image>images/main_dishes/8.jpg</image>
         <ingredients>
             <ingredient>м'якоть яловичини (вирізка) 600 г</ingredient>
             <ingredient>цибуля ріпчаста 2 шт.</ingredient>
@@ -586,6 +609,7 @@
         <recipeId>9</recipeId>
         <title>Шашлик по-китайськи</title>
         <portions>4</portions>
+        <image>images/main_dishes/9.jpg</image>
         <ingredients>
             <ingredient>м'якоть баранини (корейка, окіст) 500 г</ingredient>
             <ingredient>борошно пшеничне 4 ст. ложки</ingredient>
@@ -612,6 +636,7 @@
         <recipeId>10</recipeId>
         <title>Відбивні гриль з медом і фісташками</title>
         <portions>6</portions>
+        <image>images/main_dishes/10.jpg</image>
         <ingredients>
             <ingredient>м'якоть свинини ( корейка) 1 кг</ingredient>
             <ingredient>фісташки 50 г</ingredient>
@@ -638,6 +663,7 @@
         <recipeId>11</recipeId>
         <title>Баранина гриль</title>
         <portions>2</portions>
+        <image>images/main_dishes/11.jpg</image>
         <ingredients>
             <ingredient>баранина (корейка на кістці ) 1 кг</ingredient>
             <ingredient>цибуля ріпчаста 8-10 головок</ingredient>
@@ -666,6 +692,7 @@
         <recipeId>12</recipeId>
         <title>Стейки з баранини з цибулею</title>
         <portions>2</portions>
+        <image>images/main_dishes/12.jpg</image>
         <ingredients>
             <ingredient>баранина (окіст, ниркова частина корейки ) 400 г</ingredient>
             <ingredient>цибуля ріпчаста 1-2 головки</ingredient>
@@ -688,6 +715,7 @@
         <recipeId>13</recipeId>
         <title>Чилі кон карне з шоколадом</title>
         <portions>6</portions>
+        <image>images/main_dishes/13.jpg</image>
         <ingredients>
             <ingredient>фарш яловичий 500 г</ingredient>
             <ingredient>перець чилі червоний 2 шт.</ingredient>
@@ -713,6 +741,7 @@
         <recipeId>14</recipeId>
         <title>Печінка, тушкована з овочами</title>
         <portions>4</portions>
+        <image>images/main_dishes/14.jpg</image>
         <ingredients>
             <ingredient>печінка яловича 500 г</ingredient>
             <ingredient>масло топлене 4 ст. ложки</ingredient>
@@ -741,6 +770,7 @@
         <recipeId>15</recipeId>
         <title>М'ясо з квашеною капустою</title>
         <portions>6</portions>
+        <image>images/main_dishes/15.jpg</image>
         <ingredients>
             <ingredient>м'якоть свинини 700 г</ingredient>
             <ingredient>капуста білокачанна квашена 400 г</ingredient>

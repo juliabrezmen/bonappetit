@@ -6,6 +6,7 @@
         <recipeId>1</recipeId>
         <title>Овочевий салат з креветками</title>
         <portions>8</portions>
+        <image>images/salads/1.jpg</image>
         <ingredients>
             <ingredient>300 г варених креветок</ingredient>
             <ingredient>3 шт. вареної картоплі</ingredient>
@@ -40,6 +41,7 @@
         <recipeId>2</recipeId>
         <title>Салат-планета</title>
         <portions>6</portions>
+        <image>images/salads/2.jpg</image>
         <ingredients>
             <ingredient>100 г крабових паличок,</ingredient>
             <ingredient>100 г консервованих ананасів,</ingredient>
@@ -63,6 +65,7 @@
         <recipeId>3</recipeId>
         <title>Салат з куркою, сиром і сухариками</title>
         <portions>8</portions>
+        <image>images/salads/3.jpg</image>
         <ingredients>
             <ingredient>Варена куряча грудка - 350 гр.</ingredient>
             <ingredient>Помідори - 2-3 шт.</ingredient>
@@ -93,6 +96,7 @@
         <recipeId>4</recipeId>
         <title>Салат "Обжорка"</title>
         <portions>4</portions>
+        <image>images/salads/4.jpg</image>
         <ingredients>
             <ingredient>1 банка консервованої квасолі (тільки не в томаті)</ingredient>
             <ingredient>2 помідора</ingredient>
@@ -112,6 +116,7 @@
         <recipeId>5</recipeId>
         <title>Салат з пророщеною пшеницею</title>
         <portions>6</portions>
+        <image>images/salads/5.jpg</image>
         <ingredients>
             <ingredient>листя крес-салату 150 г</ingredient>
             <ingredient>яблука зелені 2 шт.</ingredient>
@@ -134,8 +139,9 @@
     </recipe>
     <recipe>
         <recipeId>6</recipeId>
-        <title>Салат з пророщеною пшеницею</title>
+        <title>Салат з овочів з яблуками</title>
         <portions>6</portions>
+        <image>images/salads/6.jpg</image>
         <ingredients>
             <ingredient>морква 250 г</ingredient>
             <ingredient>яблука 200 г</ingredient>
@@ -161,6 +167,7 @@
         <recipeId>7</recipeId>
         <title>Салат з грейпфрутом і м'яким сиром</title>
         <portions>6</portions>
+        <image>images/salads/7.jpg</image>
         <ingredients>
             <ingredient>сир м'який 200 г</ingredient>
             <ingredient>грейпфрути 2 шт.</ingredient>
@@ -185,6 +192,7 @@
         <recipeId>8</recipeId>
         <title>Овочевий салат з яблуками</title>
         <portions>6</portions>
+        <image>images/salads/8.jpg</image>
         <ingredients>
             <ingredient>морква 3 шт.</ingredient>
             <ingredient>редька 1 шт.</ingredient>
@@ -208,6 +216,7 @@
         <recipeId>9</recipeId>
         <title>Салат з квасолею, шинкою і сухариками</title>
         <portions>6</portions>
+        <image>images/salads/9.jpg</image>
         <ingredients>
             <ingredient>квасоля консервована 1 банка</ingredient>
             <ingredient>шинка 200 г</ingredient>
@@ -232,6 +241,7 @@
         <recipeId>10</recipeId>
         <title>Салат "Орхідея"</title>
         <portions>6</portions>
+        <image>images/salads/10.jpg</image>
         <ingredients>
             <ingredient>200 г шинки</ingredient>
             <ingredient>100 г солоних грибів</ingredient>
@@ -253,6 +263,7 @@
         <recipeId>11</recipeId>
         <title>Індійський морквяний салат</title>
         <portions>4</portions>
+        <image>images/salads/11.jpg</image>
         <ingredients>
             <ingredient>1 пучок свіжої моркви</ingredient>
             <ingredient>фарш баранини</ingredient>
@@ -281,6 +292,7 @@
         <recipeId>12</recipeId>
         <title>Салат "Зелена ніжність"</title>
         <portions>8</portions>
+        <image>images/salads/12.jpg</image>
         <ingredients>
             <ingredient>1 качан пекінської капусти.</ingredient>
             <ingredient>200 г сиру Фета.</ingredient>
@@ -301,6 +313,7 @@
         <recipeId>13</recipeId>
         <title>Салат з цвітної капусти</title>
         <portions>6</portions>
+        <image>images/salads/13.jpg</image>
         <ingredients>
             <ingredient>капуста цвітна 2 кг</ingredient>
             <ingredient>помідори 1 кг</ingredient>
@@ -325,6 +338,7 @@
         <recipeId>14</recipeId>
         <title>Фруктовий салат з капустою</title>
         <portions>4</portions>
+        <image>images/salads/14.jpg</image>
         <ingredients>
             <ingredient>груші тверді 2 шт.</ingredient>
             <ingredient>виноград 100 г</ingredient>
@@ -345,6 +359,7 @@
         <recipeId>15</recipeId>
         <title>Салат з овочів і тофу</title>
         <portions>6</portions>
+        <image>images/salads/15.jpg</image>
         <ingredients>
             <ingredient>сир тофу 150 г</ingredient>
             <ingredient>печериці 30 г</ingredient>
@@ -373,6 +388,7 @@
         <recipeId>1</recipeId>
         <title>Овочевий салат з креветками</title>
         <portions>8</portions>
+        <image>images/salads/1.jpg</image>
         <ingredients>
             <ingredient>300 г варених креветок</ingredient>
             <ingredient>3 шт. вареної картоплі</ingredient>
@@ -407,6 +423,7 @@
         <recipeId>2</recipeId>
         <title>Салат-планета</title>
         <portions>6</portions>
+        <image>images/salads/2.jpg</image>
         <ingredients>
             <ingredient>100 г крабових паличок,</ingredient>
             <ingredient>100 г консервованих ананасів,</ingredient>
@@ -430,6 +447,7 @@
         <recipeId>3</recipeId>
         <title>Салат з куркою, сиром і сухариками</title>
         <portions>8</portions>
+        <image>images/salads/3.jpg</image>
         <ingredients>
             <ingredient>Варена куряча грудка - 350 гр.</ingredient>
             <ingredient>Помідори - 2-3 шт.</ingredient>
@@ -460,6 +478,7 @@
         <recipeId>4</recipeId>
         <title>Салат "Обжорка"</title>
         <portions>4</portions>
+        <image>images/salads/4.jpg</image>
         <ingredients>
             <ingredient>1 банка консервованої квасолі (тільки не в томаті)</ingredient>
             <ingredient>2 помідора</ingredient>
@@ -479,6 +498,7 @@
         <recipeId>5</recipeId>
         <title>Салат з пророщеною пшеницею</title>
         <portions>6</portions>
+        <image>images/salads/5.jpg</image>
         <ingredients>
             <ingredient>листя крес-салату 150 г</ingredient>
             <ingredient>яблука зелені 2 шт.</ingredient>
@@ -503,6 +523,7 @@
         <recipeId>6</recipeId>
         <title>Салат з пророщеною пшеницею</title>
         <portions>6</portions>
+        <image>images/salads/6.jpg</image>
         <ingredients>
             <ingredient>морква 250 г</ingredient>
             <ingredient>яблука 200 г</ingredient>
@@ -528,6 +549,7 @@
         <recipeId>7</recipeId>
         <title>Салат з грейпфрутом і м'яким сиром</title>
         <portions>6</portions>
+        <image>images/salads/7.jpg</image>
         <ingredients>
             <ingredient>сир м'який 200 г</ingredient>
             <ingredient>грейпфрути 2 шт.</ingredient>
@@ -552,6 +574,7 @@
         <recipeId>8</recipeId>
         <title>Овочевий салат з яблуками</title>
         <portions>6</portions>
+        <image>images/salads/8.jpg</image>
         <ingredients>
             <ingredient>морква 3 шт.</ingredient>
             <ingredient>редька 1 шт.</ingredient>
@@ -575,6 +598,7 @@
         <recipeId>9</recipeId>
         <title>Салат з квасолею, шинкою і сухариками</title>
         <portions>6</portions>
+        <image>images/salads/9.jpg</image>
         <ingredients>
             <ingredient>квасоля консервована 1 банка</ingredient>
             <ingredient>шинка 200 г</ingredient>
@@ -599,6 +623,7 @@
         <recipeId>10</recipeId>
         <title>Салат "Орхідея"</title>
         <portions>6</portions>
+        <image>images/salads/10.jpg</image>
         <ingredients>
             <ingredient>200 г шинки</ingredient>
             <ingredient>100 г солоних грибів</ingredient>
@@ -620,6 +645,7 @@
         <recipeId>11</recipeId>
         <title>Індійський морквяний салат</title>
         <portions>4</portions>
+        <image>images/salads/11.jpg</image>
         <ingredients>
             <ingredient>1 пучок свіжої моркви</ingredient>
             <ingredient>фарш баранини</ingredient>
@@ -648,6 +674,7 @@
         <recipeId>12</recipeId>
         <title>Салат "Зелена ніжність"</title>
         <portions>8</portions>
+        <image>images/salads/12.jpg</image>
         <ingredients>
             <ingredient>1 качан пекінської капусти.</ingredient>
             <ingredient>200 г сиру Фета.</ingredient>
@@ -668,6 +695,7 @@
         <recipeId>13</recipeId>
         <title>Салат з цвітної капусти</title>
         <portions>6</portions>
+        <image>images/salads/13.jpg</image>
         <ingredients>
             <ingredient>капуста цвітна 2 кг</ingredient>
             <ingredient>помідори 1 кг</ingredient>
@@ -692,6 +720,7 @@
         <recipeId>14</recipeId>
         <title>Фруктовий салат з капустою</title>
         <portions>4</portions>
+        <image>images/salads/14.jpg</image>
         <ingredients>
             <ingredient>груші тверді 2 шт.</ingredient>
             <ingredient>виноград 100 г</ingredient>
@@ -712,6 +741,7 @@
         <recipeId>15</recipeId>
         <title>Салат з овочів і тофу</title>
         <portions>6</portions>
+        <image>images/salads/15.jpg</image>
         <ingredients>
             <ingredient>сир тофу 150 г</ingredient>
             <ingredient>печериці 30 г</ingredient>

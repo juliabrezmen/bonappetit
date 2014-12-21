@@ -6,6 +6,7 @@
         <recipeId>1</recipeId>
         <title>Шоколадний пудинг</title>
         <portions>4</portions>
+        <image>images/desserts/1.jpg</image>
         <ingredients>
             <ingredient>150 г шоколаду</ingredient>
             <ingredient>100 г манної крупи</ingredient>
@@ -28,6 +29,7 @@
         <recipeId>2</recipeId>
         <title>Лінивий медовик</title>
         <portions>1</portions>
+        <image>images/desserts/2.jpg</image>
         <ingredients>
             <ingredient>печиво сухе 2 кг.</ingredient>
             <ingredient>молоко 500 мл.</ingredient>
@@ -50,6 +52,7 @@
         <recipeId>3</recipeId>
         <title>Торт із печива з бананом на швидку руку</title>
         <portions>1</portions>
+        <image>images/desserts/3.jpg</image>
         <ingredients>
             <ingredient>2 пачки цукрового печива</ingredient>
             <ingredient>5-6 бананів</ingredient>
@@ -73,6 +76,7 @@
         <recipeId>4</recipeId>
         <title>Торт "Чорний принц"</title>
         <portions>5</portions>
+        <image>images/desserts/4.jpg</image>
         <ingredients>
             <ingredient>борошно пшеничне 1 стакан</ingredient>
             <ingredient>цукор 1стакан</ingredient>
@@ -101,6 +105,7 @@
         <recipeId>5</recipeId>
         <title>Ягідно - йогуртовий торт</title>
         <portions>6</portions>
+        <image>images/desserts/5.jpg</image>
         <ingredients>
             <ingredient>йогурт 450 г</ingredient>
             <ingredient>вершки густі 250 г</ingredient>
@@ -127,6 +132,7 @@
         <recipeId>6</recipeId>
         <title>Шоколадний пиріг</title>
         <portions>1</portions>
+        <image>images/desserts/6.jpg</image>
         <ingredients>
             <ingredient>1,5 склянки борошна</ingredient>
             <ingredient>3 ст. ложки какао-порошку</ingredient>
@@ -153,6 +159,7 @@
         <recipeId>7</recipeId>
         <title>Банановий шоколадний торт</title>
         <portions>1</portions>
+        <image>images/desserts/7.jpg</image>
         <ingredients>
             <ingredient>200 г печива</ingredient>
             <ingredient>50 г вершкового масла</ingredient>
@@ -182,6 +189,7 @@
         <recipeId>8</recipeId>
         <title>Бланманже з фруктами</title>
         <portions>1</portions>
+        <image>images/desserts/8.jpg</image>
         <ingredients>
             <ingredient>Желатин 30 гр заливаємо молоком 200 мл і ставимо в сторону на 1 годину;</ingredient>
             <ingredient>сир 700 гр</ingredient>
@@ -200,6 +208,7 @@
         <recipeId>9</recipeId>
         <title>Торт на кефірі</title>
         <portions>1</portions>
+        <image>images/desserts/9.jpg</image>
         <ingredients>
             <ingredient>3 яйця,</ingredient>
             <ingredient>1 стакан кефіру,</ingredient>
@@ -223,6 +232,7 @@
         <recipeId>10</recipeId>
         <title>Мандариновий торт</title>
         <portions>1</portions>
+        <image>images/desserts/10.jpg</image>
         <ingredients>
             <ingredient>5 великих мандаринів</ingredient>
             <ingredient>1,5 склянки цукру</ingredient>
@@ -250,6 +260,7 @@
         <recipeId>11</recipeId>
         <title>Торт "Монастирська хатинка"</title>
         <portions>1</portions>
+        <image>images/desserts/11.jpg</image>
         <ingredients>
             <ingredient>1,5 склянки борошна</ingredient>
             <ingredient>4 склянки борошна</ingredient>
@@ -298,6 +309,7 @@
         <recipeId>12</recipeId>
         <title>Торт "Королівський"</title>
         <portions>1</portions>
+        <image>images/desserts/12.jpg</image>
         <ingredients>
             <ingredient>2 жовтки</ingredient>
             <ingredient>1/3 ст. цукру</ingredient>
@@ -326,6 +338,7 @@
         <recipeId>13</recipeId>
         <title>Шоколадний торт з морозивом</title>
         <portions>6</portions>
+        <image>images/desserts/13.jpg</image>
         <ingredients>
             <ingredient>шоколад гіркий 300 г</ingredient>
             <ingredient>масло вершкове 270 г</ingredient>
@@ -350,6 +363,7 @@
         <recipeId>14</recipeId>
         <title>Шоколадний торт без борошна</title>
         <portions>1</portions>
+        <image>images/desserts/14.jpg</image>
         <ingredients>
             <ingredient>110 г темного або напівсолодкого шоколаду</ingredient>
             <ingredient>1/2 склянки вершкового масла</ingredient>
@@ -379,6 +393,7 @@
         <recipeId>15</recipeId>
         <title>Моркв'яний бісквітний рулет</title>
         <portions>1</portions>
+        <image>images/desserts/15.jpg</image>
         <ingredients>
             <ingredient>450 г моркви</ingredient>
             <ingredient>4 яйця</ingredient>
@@ -403,6 +418,7 @@
         <recipeId>1</recipeId>
         <title>Шоколадний пудинг</title>
         <portions>4</portions>
+        <image>images/desserts/1.jpg</image>
         <ingredients>
             <ingredient>150 г шоколаду</ingredient>
             <ingredient>100 г манної крупи</ingredient>
@@ -425,6 +441,7 @@
         <recipeId>2</recipeId>
         <title>Лінивий медовик</title>
         <portions>1</portions>
+        <image>images/desserts/2.jpg</image>
         <ingredients>
             <ingredient>печиво сухе 2 кг.</ingredient>
             <ingredient>молоко 500 мл.</ingredient>
@@ -447,6 +464,7 @@
         <recipeId>3</recipeId>
         <title>Торт із печива з бананом на швидку руку</title>
         <portions>1</portions>
+        <image>images/desserts/3.jpg</image>
         <ingredients>
             <ingredient>2 пачки цукрового печива</ingredient>
             <ingredient>5-6 бананів</ingredient>
@@ -470,6 +488,7 @@
         <recipeId>4</recipeId>
         <title>Торт "Чорний принц"</title>
         <portions>5</portions>
+        <image>images/desserts/4.jpg</image>
         <ingredients>
             <ingredient>борошно пшеничне 1 стакан</ingredient>
             <ingredient>цукор 1стакан</ingredient>
@@ -498,6 +517,7 @@
         <recipeId>5</recipeId>
         <title>Ягідно - йогуртовий торт</title>
         <portions>6</portions>
+        <image>images/desserts/5.jpg</image>
         <ingredients>
             <ingredient>йогурт 450 г</ingredient>
             <ingredient>вершки густі 250 г</ingredient>
@@ -524,6 +544,7 @@
         <recipeId>6</recipeId>
         <title>Шоколадний пиріг</title>
         <portions>1</portions>
+        <image>images/desserts/6.jpg</image>
         <ingredients>
             <ingredient>1,5 склянки борошна</ingredient>
             <ingredient>3 ст. ложки какао-порошку</ingredient>
@@ -550,6 +571,7 @@
         <recipeId>7</recipeId>
         <title>Банановий шоколадний торт</title>
         <portions>1</portions>
+        <image>images/desserts/7.jpg</image>
         <ingredients>
             <ingredient>200 г печива</ingredient>
             <ingredient>50 г вершкового масла</ingredient>
@@ -579,6 +601,7 @@
         <recipeId>8</recipeId>
         <title>Бланманже з фруктами</title>
         <portions>1</portions>
+        <image>images/desserts/8.jpg</image>
         <ingredients>
             <ingredient>Желатин 30 гр заливаємо молоком 200 мл і ставимо в сторону на 1 годину;</ingredient>
             <ingredient>сир 700 гр</ingredient>
@@ -597,6 +620,7 @@
         <recipeId>9</recipeId>
         <title>Торт на кефірі</title>
         <portions>1</portions>
+        <image>images/desserts/9.jpg</image>
         <ingredients>
             <ingredient>3 яйця,</ingredient>
             <ingredient>1 стакан кефіру,</ingredient>
@@ -620,6 +644,7 @@
         <recipeId>10</recipeId>
         <title>Мандариновий торт</title>
         <portions>1</portions>
+        <image>images/desserts/10.jpg</image>
         <ingredients>
             <ingredient>5 великих мандаринів</ingredient>
             <ingredient>1,5 склянки цукру</ingredient>
@@ -647,6 +672,7 @@
         <recipeId>11</recipeId>
         <title>Торт "Монастирська хатинка"</title>
         <portions>1</portions>
+        <image>images/desserts/11.jpg</image>
         <ingredients>
             <ingredient>1,5 склянки борошна</ingredient>
             <ingredient>4 склянки борошна</ingredient>
@@ -695,6 +721,7 @@
         <recipeId>12</recipeId>
         <title>Торт "Королівський"</title>
         <portions>1</portions>
+        <image>images/desserts/12.jpg</image>
         <ingredients>
             <ingredient>2 жовтки</ingredient>
             <ingredient>1/3 ст. цукру</ingredient>
@@ -723,6 +750,7 @@
         <recipeId>13</recipeId>
         <title>Шоколадний торт з морозивом</title>
         <portions>6</portions>
+        <image>images/desserts/13.jpg</image>
         <ingredients>
             <ingredient>шоколад гіркий 300 г</ingredient>
             <ingredient>масло вершкове 270 г</ingredient>
@@ -747,6 +775,7 @@
         <recipeId>14</recipeId>
         <title>Шоколадний торт без борошна</title>
         <portions>1</portions>
+        <image>images/desserts/14.jpg</image>
         <ingredients>
             <ingredient>110 г темного або напівсолодкого шоколаду</ingredient>
             <ingredient>1/2 склянки вершкового масла</ingredient>
@@ -776,6 +805,7 @@
         <recipeId>15</recipeId>
         <title>Моркв'яний бісквітний рулет</title>
         <portions>1</portions>
+        <image>images/desserts/15.jpg</image>
         <ingredients>
             <ingredient>450 г моркви</ingredient>
             <ingredient>4 яйця</ingredient>
